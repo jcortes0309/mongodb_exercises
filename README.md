@@ -4,15 +4,31 @@
 
 You will create a MongoDB database and it will have a languages collection containing all the programming languages in the world. Write insert statements to insert these programming languages into it:
 
-Language: Python Inventors: Guido van Rossum First appeared: 1991 Paradigm(s): object-oriented, imperative, functional, procedural, reflective Typing discipline: duck, dynamic, strong, gradual
+Language: Python
+Inventors: Guido van Rossum
+First appeared: 1991
+Paradigm(s): object-oriented, imperative, functional, procedural, reflective
+Typing discipline: duck, dynamic, strong, gradual
 
-Language: JavaScript Inventor(s): Brandon Eich First appeared: 1995 Paradigm(s): scripting, object-oriented (prototype-based), imperative, functional, event-driven Typing discipline: dynamic, duck
+Language: JavaScript
+Inventor(s): Brandon Eich
+First appeared: 1995
+Paradigm(s): scripting, object-oriented (prototype-based), imperative, functional, event-driven
+Typing discipline: dynamic, duck
 
-Language: Java Inventor(s): James Gosling First appeared: 1995 Paradigm(s): Object-oriented (class-based), structured, imperative, generic, reflective, concurrent Typing discipline: discipline Static, strong, safe, nominative, manifest
+Language: Java
+Inventor(s): James Gosling
+First appeared: 1995
+Paradigm(s): Object-oriented (class-based), structured, imperative, generic, reflective, concurrent
+Typing discipline: static, strong, safe, nominative, manifest
 
-Language: Haskell Inventor(s): Simon Peyton Jones
+Language: Haskell
+Inventor(s): Simon Peyton Jones
 
-Language: Closure Inventor(s): Rich Hickey Paradigm(s): functional Typing discipline: dynamic, strong
+Language: Closure
+Inventor(s): Rich Hickey
+Paradigm(s): functional
+Typing discipline: dynamic, strong
 
 Feel free to find other programming languages on Wikipedia and add them to your database.
 
